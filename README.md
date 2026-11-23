@@ -2,7 +2,7 @@
 
 **Keyforge** is an interactive web-based typing practice application designed to help users improve their typing speed, accuracy, and overall typing skills through an engaging and user-friendly interface.
 
-🌐 **Live Demo:** [Try Keyforge](https://typing-practice-web-749b.bolt.host)
+🌐 **Live Demo:** [Try Keyforge](https://keyforge-typing-practice07.bolt.host)
 
 ---
 
